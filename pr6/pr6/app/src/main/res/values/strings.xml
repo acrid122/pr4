@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pr6</string>
+    <string name="notification_title">Title</string>
+    <string name="notification_text">Текст уведомления</string>
+    <string name="notification_service_title">Service</string>
+    <string name="notification_service_text">Нажмите, чтобы перейти в приложение</string>
+    <string name="channel_name">Канал</string>
+    <string name="channel_description">12345</string>
+</resources>
