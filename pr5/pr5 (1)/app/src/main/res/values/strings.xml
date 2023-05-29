@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pr5</string>
+    <string name="go_to_first">Перейти на первый фрагмент</string>
+    <string name="go_to_second">Перейти на второй фрагмент</string>
+    <string name="go_to_third">Перейти на третий фрагмент</string>
+    <string name="text_view">Передать текст:</string>
+</resources>
